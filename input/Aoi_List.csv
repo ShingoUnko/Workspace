@@ -1,0 +1,49 @@
+﻿num,AreaGroup,aoiName,Priority,Satellite,Mode,Conditions,Angle(Min),Angle(Max),Orbit,Direction,Frequency,Margin,1,2,3,4,5,6,7,8
+1,1,[AT] Ishikawa_Wajima_SM2,1,StriX-3,Sliding spotlight,1,25,42,Descending,Right/Left,7,2,"DR 30.9 
+2024/4/3","DL 43.5 
+2024/4/26","DR 23.7 
+2024/4/30","DL 43.3 
+2024/5/9","DR 27.4
+2024/5/13","DR 26.7
+2024/5/17","DL 44.5 
+2024/6/2","DR 38.9
+2024/7/14"
+2,2,[AT] Tsukubamirai_Tokyo_LSM2,1,StriX-3,Stripmap,1,35,42,Descending,Right,7,2,"DR 37.5
+2024/5/3","DR 40.6
+2024/5/16","DR 40.9
+2024/5/28",,,,,
+3,2,[AT] Naka_Ryugasaki_LSM2,1,StriX-3,Stripmap,1,30,40,Descending,Left,7,2,"DR 37.9 
+2024/4/20","DL 34.4
+2024/5/12","DL 33.9
+2024/6/5",,,,,
+4,2,[AT] AGRI_Ogata,1,StriX-3,Stripmap,1,21,23,Ascending,Left,3,2,"DL 31.4 
+2024/4/15","AL 42.5
+2024/5/13","DR 35.2
+2024/5/15","AL 44.4
+2024/5/20","DR 22.0
+2024/5/27",,,
+5,1,[AT] Saga_Hakata_LSM2,2,StriX-3,Stripmap,0,25,42,Ascending/Descending,Right/Left,365,2,"DL 36.1 
+2024/4/24","DL 41.8
+2024/5/19",,,,,,
+6,1,[AT] Oita_Miyazaki_LSM2,2,"StriX-1,StriX-3",Stripmap,0,25,42,Ascending/Descending,Right/Left,365,2,"DL 35.6 
+2023/6/18",,,,,,,
+7,1,[AT] Railway_Mine_LSM2,2,"StriX-1,StriX-3",Stripmap,0,25,42,Ascending/Descending,Right/Left,90,2,"DL 38.6 
+2024/3/22",,,,,,,
+8,1,[AT] Ishikawa_Nanao_SM2,2,StriX-3,Sliding spotlight,1,25,42,Descending,Right/Left,1,0,"DR 39.5 
+2024/4/4","DL 38.9 
+2024/4/13","DL 35.6 
+2024/4/27","DR 34.5 
+2024/5/1","DL 34.9
+2024/5/10","DR 38.0
+2024/5/14","DL 36.6
+2024/6/10",
+9,1,[AT] Ishikawa_Suzu_SM2,2,StriX-3,Sliding spotlight,1,25,42,Descending,Right/Left,90,2,"DL 30.3 
+2024/4/14","DL 25.3 
+2024/4/28","DR 42.7 
+2024/5/2","DL 23.9 
+2024/5/11","DR 24.7
+2024/5/16","DR 25.5
+2024/5/18",,
+10,1,[AT]RAILWAY_Senmou_LSM2,3,"StriX-1,StriX-3",Stripmap,0,30,45,Descending,Right,0,2,"DR 41.4
+2024/4/8","DR 42.1 
+2024/4/22",,,,,,
