@@ -19,7 +19,7 @@ def CsvTodataflame(dir):
     df_datafrmae=pd.DataFrame()
 
     #CSVファイルをDataframeに入力
-    df= pd.read_csv(dir,encoding="shift-jis")
+    df= pd.read_csv(dir,encoding="utf-8")
 
     #読み込んだ文字列の末尾に空白があれば削除する
     df_datafrmae=df.applymap(lambda x:x.rstrip() if isinstance(x,str) else x)
